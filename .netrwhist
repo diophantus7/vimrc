@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home/stefan/laTeX/Bewerbung/roche_postdoc_OIA'
+let g:netrw_dirhist_2='/home/stefan/laTeX/Bewerbung/bew_aktuell'
